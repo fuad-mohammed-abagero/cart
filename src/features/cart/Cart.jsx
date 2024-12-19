@@ -76,7 +76,7 @@ function Cart() {
               d="M9.796 52.06c-.667 5.866 16.24 12.586 37.733 15.04 14.774 1.68 27.867.906 34.854-1.654"
             />
           </svg>
-          <p>your Added item will pear here</p>
+          <p>your Added item will appear here</p>
         </div>
       </div>
     );
